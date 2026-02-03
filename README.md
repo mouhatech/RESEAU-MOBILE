@@ -43,7 +43,7 @@ L'outil intègre les modèles de propagation (Okumura-Hata) et génère des rapp
     ```
 
 ### Téléchargement (Pour les utilisateurs)
-Si vous ne souhaitez pas installer Python, vous pouvez télécharger la version exécutable (.exe) directement depuis l'onglet **[Releases](https://github.com/TON_USER/TON_REPO/releases)** de ce dépôt (Windows uniquement).
+Si vous ne souhaitez pas installer Python, vous pouvez télécharger la version exécutable (.exe) directement depuis l'onglet **[Releases](https://github.com/mouhatech/RESEAU-MOBILE/releases)** de ce dépôt (Windows uniquement).
 
 ## 🧮 Aperçu technique
 
