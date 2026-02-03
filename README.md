@@ -28,8 +28,8 @@ L'outil intègre les modèles de propagation (Okumura-Hata) et génère des rapp
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/TON_USER/TON_REPO.git](https://github.com/TON_USER/TON_REPO.git)
-    cd TON_REPO
+    git clone https://github.com/mouhatech/RESEAU-MOBILE.git
+    cd RESEAU-MOBILE
     ```
 
 2.  **Installer les dépendances :**
